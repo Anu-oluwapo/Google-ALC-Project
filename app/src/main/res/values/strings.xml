@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC4.0</string>
+    <string name="welcome_to_acl_4_0">Welcome To ACL 4.0</string>
+    <string name="about_acl">About ACL</string>
+    <string name="my_profile">My Profile</string>
+    <string name="Name">Name: Abolarin Anuoluwapo</string>
+    <string name="Track">Track: Android</string>
+    <string name="Country">Country: Nigeria</string>
+    <string name="phone_number">Phone Number: 2348182750749</string>
+    <string name="slack_username">Slack Username: Abolarin Anuoluwapo</string>
+    <string name="e_mail">E-mail: abolarin.aanu@gmail.com</string>
+</resources>
